@@ -1,0 +1,14 @@
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.exe
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.deps.json
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.runtimeconfig.json
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.runtimeconfig.dev.json
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.dll
+C:\Users\Dieva\source\repos\ValidString\ValidString\bin\Debug\netcoreapp3.1\ValidString.pdb
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.csproj.AssemblyReference.cache
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.AssemblyInfoInputs.cache
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.AssemblyInfo.cs
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.csproj.CoreCompileInputs.cache
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.dll
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.pdb
+C:\Users\Dieva\source\repos\ValidString\ValidString\obj\Debug\netcoreapp3.1\ValidString.genruntimeconfig.cache
