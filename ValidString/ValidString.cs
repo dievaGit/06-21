@@ -19,7 +19,7 @@ namespace ValidString
 
         public static String ValidatingString(string initial)
         {
-            Stack parentisis = new Stack();
+            Stack<char> parentisis = new Stack<char>();
 
             foreach (var i in initial)
             {
